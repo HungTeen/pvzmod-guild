@@ -9,6 +9,8 @@
   "donate",
   "baidu-tongji",
   "anchor-navigation-ex",
+  "tbfed-pagefooter",
+  "favicon",
   "gittalk"
 ],
 "pluginsConfig": {
@@ -16,14 +18,28 @@
     "button": "打赏",
     "alipayText": "支付宝打赏",
     "wechatText": "微信打赏",
-    "alipay": "",
-    "wechat": ""
+    "alipay": "assets/img/alipay.jpg",
+    "wechat": "assets/img/wepay.png"
   },
   "baidu-tongji": {
     "token": "55e7dfe47f4dc1c12345678fdfa62565"
   },
   "anchor-navigation-ex": {
     "showLevel": false
+  },
+  "tbfed-pagefooter": {
+            "copyright":"",
+            "modify_label": "该文件最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+  },
+  "favicon": {
+            "shortcut": "assets/img/logo.ico",
+            "bookmark": "assets/img/logo.ico",
+            "appleTouch": "assets/img/logo.ico",
+            "appleTouchMore": {
+                "120x120": "assets/img/logo.ico",
+                "180x180": "assets/img/logo.ico"
+            }
   },
   "gittalk": {
     "clientID": "2170380ea5ddd45b3e29",
