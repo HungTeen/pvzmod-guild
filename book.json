@@ -1,0 +1,28 @@
+{
+"plugins": [
+  "expandable-chapters",
+  "search-pro",
+  "-search",
+  "-lunr",
+  "theme-comscore",
+  "splitter",
+  "donate",
+  "baidu-tongji",
+  "anchor-navigation-ex"
+],
+"pluginsConfig": {
+  "donate": {
+    "button": "打赏",
+    "alipayText": "支付宝打赏",
+    "wechatText": "微信打赏",
+    "alipay": "",
+    "wechat": ""
+  },
+  "baidu-tongji": {
+    "token": "55e7dfe47f4dc1c12345678fdfa62565"
+  },
+  "anchor-navigation-ex": {
+    "showLevel": false
+  }
+}
+}
