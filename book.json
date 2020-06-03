@@ -8,7 +8,8 @@
   "splitter",
   "donate",
   "baidu-tongji",
-  "anchor-navigation-ex"
+  "anchor-navigation-ex",
+  "gittalk"
 ],
 "pluginsConfig": {
   "donate": {
@@ -23,6 +24,14 @@
   },
   "anchor-navigation-ex": {
     "showLevel": false
+  },
+  "gittalk": {
+    "clientID": "2170380ea5ddd45b3e29",
+    "clientSecret": "3f0f72846ddde4771307754baa56914e9c74b996",
+    "repo": "pvzmod-guild",
+    "owner": "HungTeen",
+    "admin": ["HungTeen"],
+    "distractionFreeMode": false  
   }
 }
 }
