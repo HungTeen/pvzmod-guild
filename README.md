@@ -1,18 +1,10 @@
-# Introduction
+# 植物大战僵尸mod 指南
 
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<div id="gitalk-container"></div>
-var gitalk = new Gitalk({
-  "clientID": "2170380ea5ddd45b3e29",
-  "clientSecret": "3f0f72846ddde4771307754baa56914e9c74b996",
-  "repo": "pvzmod-guild",
-  "owner": "HungTeen",
-  "admin": ["HungTeen"],
-  "id": location.pathname,      
-  "distractionFreeMode": false  
-});
-gitalk.render("gitalk-container");
-```
+欢迎大家来到我的世界 植物大战僵尸mod的指南，本指南由作者 **HungTeen** 亲自编写~
+
+然后这一页就是留给大家评论的，有什么建议、或者是bug反馈都可以提交在此。
+
+由于我已经有了**明确的内容框架**，我不可能采用每个人的建议，望理解！
+
+*注意：评论要注册 github 账号哦~*
 
