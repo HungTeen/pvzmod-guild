@@ -18,7 +18,7 @@
   * [电](plants/elect.md)
   * [更多？](plants/more.md)
 * [僵尸](zombies/zombie.md)
-  * [白天前院](day.md)
+  * [白天前院](zombies/day.md)
   * [夜晚前院](night.md)
   * [白天泳池](day_pool.md)
   * [夜晚泳池](night_pool.md)
