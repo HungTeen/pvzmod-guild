@@ -18,13 +18,14 @@
   * [电](plants/elect.md)
   * [更多？](plants/more.md)
 * [僵尸](zombies/zombie.md)
-  * [白天前院](zombies/day.md)
-  * [夜晚前院](zombies/night.md)
+  * [白天前院](zombies/day_grass.md)
+  * [夜晚前院](zombies/night_grass.md)
   * [白天泳池](zombies/day_pool.md)
   * [夜晚泳池](zombies/night_pool.md)
+  * [屋顶](zombies/roof.md)
   * [植物僵尸](zombies/plant_zombie.md)
-  * [其他](zombies/other.md)
-
+* [BOSS](zombies/boss.md)
+  
 * [物品](items/item.md)
 * [世界](worlds/world.md)
 * [生存指南](survives/survive.md)
