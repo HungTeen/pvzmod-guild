@@ -1,7 +1,6 @@
 # Summary
 
 * [植物大战僵尸mod指南](README.md)
-  
   * [声明&须知](announcement.md)
 * [植物](plants/plant.md)
 
@@ -25,13 +24,14 @@
   * [屋顶](zombies/roof.md)
   * [植物僵尸](zombies/plant_zombie.md)
 * [BOSS](zombies/boss.md)
-  
 * [物品](items/item.md)
 * [世界](worlds/world.md)
 * [生存指南](survives/survive.md)
+* [配置文件](mod_config/mod_config.md)
+  * [难度](mod_config/dif.md)
 * [反馈](msgs/msg.md)
-  * [建议](msg/suggestion.md)
-  * [bug](msg/bug.md)
+  * [建议](msgs/suggestion.md)
+  * [bug](msgs/bug.md)
 * [其他](others/other.md)
   * [更新日志](update.md)
   * [鸣谢](thank.md)
