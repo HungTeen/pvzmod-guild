@@ -18,5 +18,5 @@
   * [建议](msg/sug.md)
   * [已知bug](msg/bug.md)
 * [其他](other/other.md)
-  * [更新日志](upd.md)
-  * [鸣谢](thx.md)
+  * [更新日志](other/upd.md)
+  * [鸣谢](other/thx.md)
