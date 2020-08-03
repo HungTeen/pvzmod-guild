@@ -14,6 +14,8 @@
 
 * [方块](block/block.md)
   * [原始精华块](block/origin.md)
+  * [种植](block/crop/crop.md)
+    * [豌豆](block/crop/pea.md)
 * [反馈](msg/msg.md)
   * [建议](msg/sug.md)
   * [已知bug](msg/bug.md)

@@ -38,5 +38,5 @@
 
 ###### <font color="peru">沙石——投掷精华矿</font>
 
-###### <font color="mediumpurple">黑曜石——喷射精华矿</font>
+###### <font color="mediumpurple">黑曜石——暗影精华矿</font>
 
