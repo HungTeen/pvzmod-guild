@@ -14,17 +14,17 @@
 
 根据僵尸的击杀难度分为7个等级，等级越高杀死后获得的经验越多
 
-###### <font color="gray">蒟蒻：如小鬼僵尸、僵尸鸡（2经验）</font>
+###### <font color="gray">蒟蒻：如小鬼僵尸、僵尸鸡（1经验）</font>
 
-###### <font color="black">普通：如普通僵尸、旗帜僵尸（3经验）</font>
+###### <font color="black">普通：如普通僵尸、旗帜僵尸（2经验）</font>
 
-###### <font color="gree">优秀：如路障僵尸、潜水僵尸（5经验）</font>
+###### <font color="gree">优秀：如路障僵尸、潜水僵尸（3经验）</font>
 
-###### <font color="blue">精英：如铁桶僵尸、铁钢门僵尸（8经验）</font>
+###### <font color="blue">精英：如铁桶僵尸、铁钢门僵尸（5经验）</font>
 
-###### <font color="purple">凶猛：如巨人僵尸、橄榄球僵尸（15经验）</font>
+###### <font color="purple">凶猛：如巨人僵尸、橄榄球僵尸（8经验）</font>
 
-###### <font color="red">狂暴：如红眼巨人僵尸、黑暗橄榄球僵尸（30经验）</font>
+###### <font color="red">狂暴：如红眼巨人僵尸、黑暗橄榄球僵尸（15经验）</font>
 
 ###### <font color="dyellow">BOSS：如僵王博士（1000经验）、复仇僵王（5000经验）</font>
 
@@ -34,13 +34,13 @@
 
 暂时没想到很好的分类方法，将就按 原版植物大战僵尸 的5大关卡划分吧
 
-###### <font color="gree">白天前院：</font> 如 普通僵尸、路障僵尸
+###### <font color="gree">前院白天：</font> 如 普通僵尸、路障僵尸
 
-###### <font color="gree">夜晚前院：</font> 如 读报僵尸、铁刚门僵尸
+###### <font color="gree">前院夜晚：</font> 如 读报僵尸、铁刚门僵尸
 
-###### <font color="gree">白天泳池：</font> 如 潜水僵尸、造雪车僵尸
+###### <font color="gree">泳池白天：</font> 如 潜水僵尸、造雪车僵尸
 
-###### <font color="gree">白天前院：</font> 如 矿工僵尸、跳跳僵尸
+###### <font color="gree">泳池夜晚：</font> 如 小丑僵尸、跳跳僵尸
 
 ###### <font color="gree">屋顶：</font> 如 投石车僵尸、小鬼僵尸
 
