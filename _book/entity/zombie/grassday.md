@@ -16,7 +16,7 @@
 
 **<font color="aqua">移动速度：正常</font>**
 
-**<font color="purple">能力：进水自带鸭子救生圈</font>**
+**<font color="purple">能力：暂无</font>**
 
 ---
 
@@ -30,7 +30,26 @@
 
 **<font color="aqua">移动速度：较快</font>**
 
-**<font color="purple">能力：进水自带鸭子救生圈</font>**
+**<font color="purple">能力：暂无</font>**
+
+**【掉落物：僵尸旗帜】**
 
 ---
 
+### <font color="gree">路障僵尸</font>
+
+普通僵尸+路障（他不是智障僵尸）
+
+**<font color="red">生命值：56</font>**
+
+**<font color="darkr">攻击：一般</font>**
+
+**<font color="aqua">移动速度：一般</font>**
+
+**<font color="purple">能力：暂无</font>**
+
+**【掉落物：路障头盔】**
+
+---
+
+### 
