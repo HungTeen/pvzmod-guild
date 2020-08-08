@@ -2,16 +2,18 @@
 
 * [植物大战僵尸mod指南](README.md)
   * [声明&须知](announcement.md)
-
 * [生存](survive/survive.md)
+* [世界](world/world.md)
+  * [主世界](world/overworld.md)
+
 * [实体](entity/entity.md)
   * [掉落实体](entity/drop.md)
   * [植物](entity/plant/plant.md)
     * [喷射](entity/plant/appease.md)
     * [阳光](entity/plant/light.md)
+    * [防御](entity/plant/def.md)
   * [僵尸](entity/zombie/zombie.md)
     * [前院白天](entity/zombie/grassday.md)
-  
 * [方块](block/block.md)
   * [原始精华块](block/origin.md)
   * [种植](block/crop/crop.md)
