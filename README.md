@@ -10,6 +10,8 @@
 
 beta 0.7 发布视频 [传送门](https://www.bilibili.com/video/BV1q54y1D7mk)
 
+MC百科收录：[传送门](https://www.mcmod.cn/class/2640.html)
+
 ---
 
 ### 作者联系方式：
@@ -19,6 +21,10 @@ beta 0.7 发布视频 [传送门](https://www.bilibili.com/video/BV1q54y1D7mk)
 **BiliBili: Hung_Teen**
 
 **MCBBS: 自然_Hungteen**
+
+**MC百科: HungTeen**
+
+###### <font color="red">本人不会在任何其他平台发布任何形式的东西</font>
 
 ---
 
