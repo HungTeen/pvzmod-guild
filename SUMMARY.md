@@ -1,12 +1,12 @@
 # Summary
 
 * [植物大战僵尸mod指南](README.md)
+  
   * [声明&须知](announcement.md)
 * [生存](survive/survive.md)
 * [世界](world/world.md)
   * [主世界](world/overworld/overworld.md)
     * [禅境花园](world/overworld/zen.md)
-  
 * [实体](entity/entity.md)
   * [掉落实体](entity/drop.md)
   * [植物](entity/plant/plant.md)
@@ -17,10 +17,22 @@
     * [寒冰](entity/plant/ice.md)
   * [僵尸](entity/zombie/zombie.md)
     * [前院白天](entity/zombie/grassday.md)
+* [物品](item/item.md)
+
+  * [召唤卡](item/card.md)
+
+  * [附魔](item/enchant.md)
 * [方块](block/block.md)
+  
   * [原始精华块](block/origin.md)
   * [种植](block/crop/crop.md)
     * [豌豆](block/crop/pea.md)
+* [配置](mod_config/config.md)
+  * [世界配置](mod_config/world.md)
+  * [实体配置](mod_config/entity.md)
+  * [方块配置](mod_config/block.md)
+  * [显示配置](mod_config/show.md)
+
 * [反馈](msg/msg.md)
   * [建议](msg/sug.md)
   * [已知bug](msg/bug.md)
